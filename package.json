@@ -6,9 +6,11 @@
     "start": "bun src/index.ts"
   },
   "dependencies": {
-    "elysia": "^1.1.26"
+    "elysia": "^1.1.26",
+    "express": "^4.21.2"
   },
   "devDependencies": {
-    "@types/bun": "^1.1.14"
+    "@types/bun": "^1.1.14",
+    "@types/express": "^5.0.0"
   }
 }
